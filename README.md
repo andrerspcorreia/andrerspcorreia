@@ -11,7 +11,7 @@ I am a Machine Learning researcher and engineer with a PhD in Computer Science, 
 
 I have hands-on experience developing computer vision and machine learning systems, working with large-scale datasets, and evaluating state-of-the-art models across robotics and surveillance domains.
 
-🌐 **Portfolio:** [https://meowatthemoon.github.io/meowatthemoon](https://meowatthemoon.github.io/meowatthemoon)
+🌐 **Portfolio:** [https://andrerspcorreia.github.io/andrerspcorreia](https://andrerspcorreia.github.io/andrerspcorreia)
 
 ---
 
@@ -28,27 +28,27 @@ My research focuses on improving the robustness, safety, and scalability of lear
 - **Hierarchical Decision Transformer**  
   State-of-the-art hierarchical sequence modeling for offline reinforcement learning  
   📄 https://ieeexplore.ieee.org/document/10342230  
-  💻 https://github.com/meowatthemoon/HDT
+  💻 https://github.com/andrerspcorreia/HDT
 
 - **Decision Mamba Architectures**  
   Transformer-free sequence modeling for offline RL using Mamba architectures  
   📄 https://arxiv.org/abs/2405.07943  
-  💻 https://github.com/meowatthemoon/Decisionmamba
+  💻 https://github.com/andrerspcorreia/Decisionmamba
 
 - **DEFENDER**  
   Improving RL safety using small sets of safe and unsafe demonstrations  
   📄 https://doi.org/10.14428/esann/2023.ES2023-97  
-  💻 https://github.com/meowatthemoon/DEFENDER
+  💻 https://github.com/andrerspcorreia/DEFENDER
 
 - **Multi-View Contrastive Learning from Demonstrations**  
   Learning viewpoint-invariant representations for robotic imitation  
   📄 https://ieeexplore.ieee.org/document/10023885  
-  💻 https://github.com/meowatthemoon/CLfD
+  💻 https://github.com/andrerspcorreia/CLfD
 
 - **Music to Dance as Language Translation**  
   Translating music into dance motions using Transformer and Mamba models  
   📄 https://arxiv.org/abs/2403.15569  
-  💻 https://github.com/meowatthemoon/MDLT
+  💻 https://github.com/andrerspcorreia/MDLT
 
 ---
 
